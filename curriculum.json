@@ -5675,5 +5675,4 @@
 {"model": "curriculum.referencias", "pk": 720, "fields": {"id": 1456, "Nombre_completo": "JUAN CARLOS GARCIA", "telefono": "3164116883", "user_id": 17997}}, 
 {"model": "curriculum.referencias", "pk": 721, "fields": {"id": 1458, "Nombre_completo": "Mar\u00eda Otalora Rinc\u00f3n", "telefono": "305-3712008", "user_id": 7314}}, 
 {"model": "curriculum.referencias", "pk": 722, "fields": {"id": 1460, "Nombre_completo": "BRENNYS ZORAIMA IGLESIAS BLANCO", "telefono": "3012808014", "user_id": 18002}}, 
-{"model": "curriculum.referencias", "pk": 723, "fields": {"id": 1462, "Nombre_completo": "JAINER ZAMBRANO ALGAR\u00cdN", "telefono": "3016889033", "user_id": 18002}}, 
-]
+{"model": "curriculum.referencias", "pk": 723, "fields": {"id": 1462, "Nombre_completo": "JAINER ZAMBRANO ALGAR\u00cdN", "telefono": "3016889033", "user_id": 18002}}]
